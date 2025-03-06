@@ -16,6 +16,7 @@ Configuración base X-Plane
 - [A346](https://store.x-plane.org/ordertrackingX.asp?sec=pro)
 - [B748](https://store.x-plane.org/ordertrackingX.asp?sec=pro)
 - [FA50](https://store.x-plane.org/ordertrackingX.asp?sec=pro)
+- [B737](https://drive.google.com/drive/folders/1qo88h_CCQRRrAMhG3EabHSwa4Lzw-WHL)
 
 ## Sofware
 - [Navigrapt](https://navigraph.com/downloads)
