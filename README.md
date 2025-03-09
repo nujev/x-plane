@@ -11,6 +11,7 @@ Configuración base X-Plane
 - [Terrain radar + Vertical Situation](https://forums.x-plane.org/index.php?%2Ffiles%2Ffile%2F37864-terrain-radar-vertical-situation-display%2F)
 - [Avitab](https://github.com/fpw/avitab/releases)
 - [Xchecklist](https://forums.x-plane.org/index.php?/files/file/20785-xchecklist-linwinmac/)
+- [Xpuipc](https://fsacars.com/downloads/xpuipc/index.html)
 
 ## Aviones
 - [A350](https://store.x-plane.org/ordertrackingX.asp?sec=pro)
