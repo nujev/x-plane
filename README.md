@@ -23,3 +23,4 @@ Configuración base X-Plane
 ## Sofware
 - [Navigrapt](https://navigraph.com/downloads)
 - [Littlenavmap](https://github.com/albar965/littlenavmap/releases)
+- [SelfLoadingCargo](https://www.selfloadingcargo.com/)
